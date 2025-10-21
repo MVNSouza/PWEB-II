@@ -32,15 +32,17 @@ const carrinho = [
 carrinho.forEach(console.log)
 console.log(somaValores(carrinho))
 
-// Desafio
 
-function somaValores(carrinho) {
+/*
+    Desafio extra
 
-    let soma = 0
-    carrinho.forEach(element => {
-        soma += element.preco * element.qtd
-    });
-    
-    return soma
-    
+    Refazer método somaValores sem váriavel auxiliar soma, com o método reduce.
+*/
+
+
+function somaValores(carrinho){
+    return carrinho.reduce((acc, produto) => {
+        return acc + (produto.preco * produto.qtd)
+    }, 0)
 }
+console.log(somaValores(carrinho))
