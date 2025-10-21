@@ -30,5 +30,17 @@ const carrinho = [
 ]
 
 carrinho.forEach(console.log)
+console.log(somaValores(carrinho))
 
+// Desafio
 
+function somaValores(carrinho) {
+
+    let soma = 0
+    carrinho.forEach(element => {
+        soma += element.preco * element.qtd
+    });
+    
+    return soma
+    
+}
