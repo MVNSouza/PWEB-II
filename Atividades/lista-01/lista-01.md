@@ -16,7 +16,7 @@
 
 ## Questão 2
 
-* [Questão A](./questao-2-a)
-* [Questão B](./questao-2-b)
-* [Questão C](./questao-2-c)
-* [Questão D](./questao-2-d)
+* [Questão A](./questao-2/questao-2-a)
+* [Questão B](./questao-2/questao-2-b)
+* [Questão C](./questao-2/questao-2-c)
+* [Questão D](./questao-2/questao-2-d)
