@@ -11,4 +11,4 @@ Este espaço serve para:
 - Melhorar boas práticas de código e versionamento com **Git/GitHub**.
 
 ## 📝 Atividades
-[Lista de Atividades 1](./Atividades/lista-01)
+* [Lista de Atividades 1](./Atividades/lista-01)
