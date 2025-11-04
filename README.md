@@ -12,3 +12,4 @@ Este espaço serve para:
 
 ## 📝 Atividades
 * [Lista de Atividades 1](./Atividades/lista-01)
+* [Lista de Atividades 2](./Atividades/lista-02)
