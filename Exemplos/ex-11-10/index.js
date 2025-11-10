@@ -15,7 +15,7 @@ const pares = nums.filter(num => num % 2 === 0);
 
 console.log(pares)
 
-// reduce() itera um array, realizanod uma operação de redução e retornando um único valor ao final
+// reduce() itera um array, realizando uma operação de redução e retornando um único valor ao final
 
 const soma = nums.reduce((acc, num) => acc + num )
 
