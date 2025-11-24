@@ -1,5 +1,6 @@
 /* 
     * Higher-Order Functions - map, filter e reduce
+    * Funções de ordem superiores são aquelas que recebem outras funções como 
 */
 
 const nums = [3, 5, 6, 8, 12, 2, 83, 11, 23, 9, 65]
