@@ -7,7 +7,7 @@ Bem-vindo(a)! Este repositório foi criado com o objetivo de reunir meus estudos
 Este espaço serve para:
 - Organizar anotações e projetos de aprendizado;
 - Praticar conceitos de **HTML**, **CSS** e **JavaScript**;
-- Explorar frameworks e bibliotecas como **React**, **Vue** e **Next.js**;
+- Explorar frameworks e bibliotecas como **React**, **Angular** e **Next.js**;
 - Melhorar boas práticas de código e versionamento com **Git/GitHub**.
 
 ## 📝 Atividades
