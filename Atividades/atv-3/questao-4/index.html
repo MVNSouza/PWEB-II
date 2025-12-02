@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ES Modules</title>
+</head>
+<body>
+
+  <!-- 
+    O atributo type="module" indica ao navegador que este arquivo JS usa o sistema de módulos do JavaScript moderno (ES Modules).
+
+    Isso permite:
+    usar import/export, carregar scripts com escopo próprio, resolver caminhos relativos (ex: ./utils/calculadora.js), carregamento assíncrono.
+
+    Sem type="module", o navegador não aceitaria import/export.
+  -->
+  <script type="module" src="app.js"></script>
+
+</body>
+</html>
