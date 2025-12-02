@@ -8,5 +8,7 @@ function exibirNivelBateria(dispositivo){
 
 exibirNivelBateria(dispositivo1); // 85
 exibirNivelBateria(dispositivo2); // -1 
-// A saída de dispositivo2 se torna -1 a propriedade info é nula, caindo no Nullish Coalescing Operator retornando o valor -1 que está do outro lado da operacao
+// A saída de dispositivo2 se torna -1 a propriedade info é nula, caindo no Nullish Coalescing Operator retornando o valor -1 que está do outro lado da operação.
+
 exibirNivelBateria(dispositivo3); // 0
+// A saída de torna zero pois o valor da bateria existe e tem um valor diferente de null ou undefined, assim retornando seu próprio valor.
